@@ -10,12 +10,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Final-year **B.E. Computer Science and Engineering** student at NPR College of Engineering & Technology, Dindigul
-- 💼 Currently focused on landing an **SDE-1** role, specializing in **Java Full-Stack Development**
-- 🌱 Deep in daily **DSA practice on LeetCode** — solving consistently and competing in rated contests
-- 🛠️ Comfortable across the stack: backend APIs with Spring Boot, and simple, functional frontends
-- 🙏 Grateful to my mentor **Hareesh Rajendran** for guidance on DSA and project standards
-- 💃 When I'm not coding, you'll find me dancing — it keeps me balanced and stress-free
+- 🔭 I'm currently working on sharpening my DSA skills on LeetCode
+- 🤝 I'm looking to collaborate on Java / Spring Boot backend projects
+- 🌱 I'm currently learning Spring Boot in depth (REST APIs, JPA, security basics)
+- 💬 Ask me about Java, DSA, Spring Boot, REST APIs
+- ⚡ Fun fact: I dance to de-stress — it's my reset button outside of code
 - 📍 Based in Madurai, Tamil Nadu, India
 
 ---
@@ -68,7 +67,7 @@
 
 ### 📊 DSA & Contest Journey
 
-- 🧩 Actively solving problems on **LeetCode** — [`Gops_17`](https://leetcode.com/u/Gopika-R-SDE/)
+- 🧩 Actively solving problems on **LeetCode** — [`Gopika`](https://leetcode.com/u/Gopika-R-SDE/)
 - 🏆 Participating in **LeetCode Biweekly Contests and Weekly Contests**
 - ✅ Crossed **100+ problems solved**, earned the **50 Days Badge**
 
@@ -82,13 +81,12 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gopika-r-sde&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopi-1709&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopika-r-sde&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gopika-r-sde&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 🤝 Connect with Me
