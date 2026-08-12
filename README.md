@@ -72,7 +72,7 @@
 - ✅ Crossed **100+ problems solved**, earned the **50 Days Badge**
 
 <p align="center">
-  <img src="https://leetcode-stats-alfy.vercel.app/api?username=Gopika-R-SDE&theme=Light" alt="Gops LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Gopika-R-SDE?theme=dark&font=Baloo%202&ext=heatmap" />
 </p>
 
 ---
@@ -80,12 +80,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gopika-r-sde&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopika-r-sde&layout=compact&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gopika-r-sde&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gopika-r-sde&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Gopika-r-sde&theme=shadow_blue" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopika-r-sde&layout=compact&theme=shadow_blue" />
 </p>
 ---
 
