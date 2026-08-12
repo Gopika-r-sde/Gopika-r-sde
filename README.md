@@ -77,20 +77,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gopika-r-sde&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Gopika-r-sde&theme=shadow_blue" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopika-r-sde&layout=compact&theme=shadow_blue" />
-</p>
----
 
 ### 🤝 Connect with Me
 
