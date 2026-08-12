@@ -72,7 +72,7 @@
 - ✅ Crossed **100+ problems solved**, earned the **50 Days Badge**
 
 <p align="center">
-  <img src="![LeetCode Stats](https://leetcard.jacoblin.cool/Gopika-R-SDE?theme=unicorn&font=Ubuntu%20Condensed&ext=heatmap)" />
+  <img src="https://leetcard.jacoblin.cool/Gopika-R-SDE?theme=unicorn&font=Ubuntu%20Condensed&ext=heatmap" />
 </p>
 
 ---
